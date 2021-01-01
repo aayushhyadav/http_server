@@ -1,0 +1,15 @@
+The Hypertext Transfer Protocol (HTTP) is an application-level
+protocol for distributed, collaborative, hypermedia information
+systems. HTTP has been in use by the World-Wide Web global
+information initiative since 1990. The first version of HTTP,
+referred to as HTTP/0.9, was a simple protocol for raw data transfer
+across the Internet. HTTP/1.0, as defined by RFC 1945 [6], improved
+the protocol by allowing messages to be in the format of MIME-like
+messages, containing metainformation about the data transferred and
+modifiers on the request/response semantics. However, HTTP/1.0 does
+not sufficiently take into consideration the effects of hierarchical
+proxies, caching, the need for persistent connections, or virtual
+hosts. In addition, the proliferation of incompletely-implemented
+applications calling themselves "HTTP/1.0" has necessitated a
+protocol version change in order for two communicating applications
+to determine each other's true capabilities.

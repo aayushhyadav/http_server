@@ -1,0 +1,408 @@
+[6/11/2020:9:46:10 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /cookies.txt
+[6/11/2020:9:46:53 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:10:0:59 IST][ error ][ client 127.0.0.1 ] Bad request: /sample
+[6/11/2020:10:1:26 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:10:2:6 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /proxy
+[6/11/2020:14:22:55 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:14:24:15 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:14:27:15 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:14:28:13 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:28:13 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:28:26 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:28:26 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:28:41 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:28:41 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:32:24 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:32:24 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:32:24 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:14:32:25 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:14:33:2 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:33:2 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:35:24 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:35:24 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:36:5 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:42:36 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:42:36 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:42:39 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:14:43:10 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:43:11 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:43:15 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:14:43:20 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:14:43:23 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:14:43:25 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:14:47:36 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:14:50:41 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:50:41 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:55:37 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:55:38 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:14:59:35 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:14:59:35 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:6:35 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:6:35 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:6:35 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:6:35 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:15:6:35 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:15:6:35 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:11:6 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:12:10 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:14:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:14:46 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:14:47 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:17:7 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:17:9 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:17:19 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:17:25 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:15:17:33 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:15:17:41 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:20:34 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:20:56 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:20:58 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:22:53 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:22:55 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:23:19 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:23:29 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:15:25:0 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:25:2 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:25:19 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:30:49 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:30:53 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:31:57 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:31:59 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:33:32 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:33:36 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:41:4 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:41:4 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:41:51 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:42:27 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:49:54 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:49:57 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:50:25 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:15:50:35 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:15:50:45 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:15:50:57 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:15:51:50 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:51:53 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:15:54:23 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:15:54:25 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:3:45 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:3:45 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:12:16 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:12:16 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:12:18 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:12:31 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:12:31 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:12:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:12:54 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:12:54 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:13:11 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:14:20 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:14:20 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:14:35 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:14:37 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:16:14:43 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:16:14:47 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:16:19:5 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:19:5 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:25:30 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:25:30 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:25:31 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:32:23 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:32:23 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:37:40 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:37:40 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:40:27 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:16:41:9 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:16:43:0 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:43:1 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:55:27 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:55:28 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:55:32 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:55:34 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:16:55:35 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:16:56:40 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:56:42 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:57:2 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:57:6 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:16:57:16 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:16:57:23 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:16:58:26 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:16:58:28 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:16:58:53 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:16:59:3 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:16:59:10 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:16:59:18 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:17:5:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:17:5:46 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:17:5:57 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:17:5:59 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:17:5:59 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:17:6:0 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[6/11/2020:17:6:28 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[6/11/2020:17:6:33 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[6/11/2020:17:6:33 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[6/11/2020:17:6:53 IST][ error ][ client 127.0.0.1 ] File was not found: /favicon.ico
+[6/11/2020:17:15:19 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[6/11/2020:17:15:22 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[6/11/2020:17:15:31 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[6/11/2020:17:15:31 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[6/11/2020:17:15:52 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[6/11/2020:17:15:58 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[6/11/2020:17:16:9 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[6/11/2020:17:16:14 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:9:13:38 IST][ error ][ client 127.0.0.1 ] File was not found: /text_to_text.txt
+[8/11/2020:9:21:1 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:9:21:21 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:9:29:45 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:9:29:45 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:9:29:50 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:9:29:56 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:9:29:57 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:9:29:57 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:9:30:22 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:9:34:24 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:9:39:19 IST][ error ][ client 127.0.0.1 ] File was not found: /test.txt
+[8/11/2020:9:42:15 IST][ error ][ client 127.0.0.1 ] File was not found: /test.txt
+[8/11/2020:10:30:28 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:11:15:48 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:18:33 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:18:33 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:18:33 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:18:33 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:18:47 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:11:18:47 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:11:18:47 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:11:18:47 IST][ error ][ client 127.0.0.1 ] Bad request: /text_to_text.txt
+[8/11/2020:11:20:35 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:20:35 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:20:35 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:20:35 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:24:25 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:24:25 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:24:41 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:11:24:51 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:11:24:51 IST][ error ][ client 127.0.0.1 ] Bad request: /images/philly.jpg
+[8/11/2020:12:7:11 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:9:19 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:15:13 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:16:20 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:16:20 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:16:20 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:12:16:20 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:16:25 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:12:16:26 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:16:26 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:16:26 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:22:57 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:22:57 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:23:8 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:23:14 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:12:23:15 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:23:16 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:23:16 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:24:9 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:24:10 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:24:17 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:12:24:18 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:24:24 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:12:24:27 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:24:28 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:24:33 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:27:4 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:27:8 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:27:8 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:27:19 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:12:27:19 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:27:20 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:12:27:20 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:27:21 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:27:21 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:32:37 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:32:37 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:32:49 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:32:51 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:12:32:52 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:32:52 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:32:53 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:57:33 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:12:57:33 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:12:57:39 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:12:57:39 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:12:57:50 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:57:51 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:12:57:51 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:7:58 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:7:58 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:13:8:22 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:13:8:26 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:13:8:28 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:8:30 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:8:31 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:9:53 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:10:18 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:13:10:32 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:13:11:0 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:11:7 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:11:11 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:12:16 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:12:17 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:13:12:43 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:13:13:9 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:13:13:20 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:13:23 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:13:28 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:28:29 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:28:29 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:13:28:40 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:13:28:40 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:13:28:41 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:13:28:41 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:28:42 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:28:42 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:31:48 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:13:31:48 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:13:31:59 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:13:32:20 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:32:22 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:13:32:24 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:15:53:9 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:15:53:9 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:15:53:9 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:15:53:14 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:15:53:20 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:15:53:21 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:15:53:21 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:15:57:43 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:15:57:43 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:15:57:53 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:15:57:53 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:15:57:54 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:15:57:54 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:15:57:55 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:15:57:55 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:8:41 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:8:41 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:16:9:2 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:16:9:3 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:9:4 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:9:4 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:12:14 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:12:14 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:16:12:27 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:16:12:32 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:16:12:38 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/11/2020:16:12:42 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:12:45 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:12:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:17:3 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:17:3 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/11/2020:16:17:5 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/11/2020:16:17:5 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/11/2020:16:17:11 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:17:11 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[8/11/2020:16:17:13 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/11/2020:16:22:45 IST][ error ][ client 127.0.0.1 ] File was not found: /test.txt
+[8/11/2020:16:23:3 IST][ error ][ client 127.0.0.1 ] File was not found: /test.txt
+[8/11/2020:16:32:32 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/11/2020:16:32:38 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/11/2020:16:32:44 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[10/11/2020:7:13:9 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[10/11/2020:7:13:13 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[10/11/2020:7:44:29 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[10/11/2020:7:45:0 IST][ error ][ client 127.0.0.1 ] File was not found: /favicon.ico
+[10/11/2020:7:46:23 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[10/11/2020:8:8:41 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[10/11/2020:8:8:46 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[12/11/2020:7:14:11 IST][ notice ][ client 127.0.0.1 ] Max simultaneous connections exceeded: -
+[12/11/2020:7:15:36 IST][ notice ][ client 127.0.0.1 ] Max simultaneous connections exceeded: -
+[12/11/2020:7:22:3 IST][ notice ][ client 127.0.0.1 ] Max simultaneous connections exceeded: -
+[12/11/2020:7:23:51 IST][ notice ][ client 127.0.0.1 ] Max simultaneous connections exceeded: -
+[12/11/2020:7:45:42 IST][ warn ][ client 127.0.0.1 ] Client not allowed to access the file: /access_log.txt
+[12/11/2020:7:48:3 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:7:48:29 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:7:48:29 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:7:48:41 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:7:48:50 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[12/11/2020:7:49:4 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:7:52:17 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:7:52:40 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:7:52:44 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[12/11/2020:7:52:56 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:54:59 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:8:55:10 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:55:10 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:8:55:27 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:8:55:28 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[12/11/2020:8:55:33 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:56:7 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:56:8 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:8:56:36 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:8:56:44 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[12/11/2020:8:57:4 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:59:54 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:8:59:55 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:9:0:16 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:9:0:29 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[12/11/2020:9:0:56 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:9:12:59 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[12/11/2020:9:12:59 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[12/11/2020:9:13:10 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[12/11/2020:9:13:22 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:6:47:53 IST][ error ][ client 127.0.0.1 ] Bad request: /
+[8/12/2020:6:49:16 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /
+[8/12/2020:6:54:41 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /help
+[8/12/2020:6:57:32 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /help
+[8/12/2020:7:4:27 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:7:4:32 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:7:50:0 IST][ error ][ client 127.0.0.1 ] File was not found: /xyz
+[8/12/2020:7:52:14 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/12/2020:7:53:58 IST][ notice ][ client 127.0.0.1 ] Max simultaneous connections exceeded: -
+[8/12/2020:8:0:8 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:8:0:8 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/12/2020:8:0:14 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/12/2020:8:0:15 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/12/2020:8:0:21 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:13:21:14 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:13:21:16 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:13:22:21 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /
+[8/12/2020:13:23:22 IST][ error ][ client 127.0.0.1 ] Bad request: /
+[8/12/2020:13:24:44 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /
+[8/12/2020:13:26:34 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/12/2020:13:32:22 IST][ error ][ client 127.0.0.1 ] File was not found: /%20
+[8/12/2020:13:38:11 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:13:41:7 IST][ warn ][ client 127.0.0.1 ] Proxy authentication required: /proxy
+[8/12/2020:13:44:15 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:13:44:31 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/12/2020:13:44:33 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/12/2020:13:44:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:13:49:33 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:13:49:33 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/12/2020:13:50:8 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[8/12/2020:13:50:21 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/12/2020:13:50:43 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:13:53:2 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:13:53:9 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[8/12/2020:14:9:15 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[8/12/2020:14:9:16 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[8/12/2020:14:9:59 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[8/12/2020:14:10:38 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:6:14:18 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:6:14:18 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[9/12/2020:6:14:36 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[9/12/2020:6:14:42 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[9/12/2020:6:14:53 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:6:18:17 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:6:18:18 IST][ error ][ client 127.0.0.1 ] File was not found: /sample
+[9/12/2020:6:18:54 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[9/12/2020:6:19:13 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[9/12/2020:6:20:3 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:10:5:4 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[9/12/2020:10:5:8 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[9/12/2020:10:44:3 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[9/12/2020:10:44:6 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[9/12/2020:10:44:27 IST][ error ][ client 127.0.0.1 ] File was not found: /%20
+[9/12/2020:10:44:46 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:10:45:4 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
+[9/12/2020:10:45:11 IST][ error ][ client 127.0.0.1 ] Range header field value not satisfiable: /about
+[9/12/2020:10:45:17 IST][ error ][ client 127.0.0.1 ] Bad request: /about
+[9/12/2020:10:51:23 IST][ error ][ client 127.0.0.1 ] File was not found: /style.css
+[9/12/2020:10:53:45 IST][ error ][ client 127.0.0.1 ] Header value not acceptable: /about
