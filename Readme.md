@@ -1,5 +1,10 @@
 # HTTP Server
 
+    Implemented post, put, head, get and delete methods
+    Implemented various requests, response headers and cookies
+    Multiple requests can be handled by the server
+    Changes can be made in the functionality by updating the server configuration file
+    
 #   For running the script
     Run the following command - './Start.sh' or 'python3 server.py'
     If the program is ran using 'python3 server.py' then press ^C to stop the server
