@@ -10,7 +10,7 @@
     If the program is ran using 'python3 server.py' then press ^C to stop the server
     If the program is ran using './Start.sh' then type 'Stop' to stop the server
     
-    While running the './Start.sh' command if there is Permission denied message
+    If there is Permission denied message while running the './Start.sh' command
     run the following command - 'chmod +x Start.sh'
 
 #   For running the automated test program (test_automated.py)
