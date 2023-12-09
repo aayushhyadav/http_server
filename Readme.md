@@ -7,8 +7,8 @@
     
 #   For running the script
     Run the following command - './Start.sh' or 'python3 server.py'
-    If the program is ran using 'python3 server.py' then press ^C to stop the server
-    If the program is ran using './Start.sh' then type 'Stop' to stop the server
+    If the program is executed using 'python3 server.py' then press ^C to stop the server
+    If the program is executed using './Start.sh' then type 'Stop' to stop the server
     
     If there is Permission denied message while running the './Start.sh' command
     run the following command - 'chmod +x Start.sh'
